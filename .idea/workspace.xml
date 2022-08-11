@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="519e5db6-bbf6-4587-ae8a-2811473ce6a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Projeto_ciencia_de_dados_acoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carteira_de_acoes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Cotacoes.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ABEV3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ASAI3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_AZUL4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_B3SA3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BBAS3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BBDC3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BBDC4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BBSE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BEEF3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BPAC11.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BRAP4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BRDT3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BRFS3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BRKM5.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BRML3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_BTOW3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CCRO3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CIEL3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CMIG4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_COGN3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CPFE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CPLE6.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CRFB3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CSAN3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CSNA3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CVCB3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_CYRE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ECOR3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_EGIE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ELET3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ELET6.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_EMBR3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ENBR3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ENEV3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ENGI11.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_EQTL3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_EZTC3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_FLRY3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_GGBR4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_GNDI3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_GOAU4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_GOLL4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_HAPV3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_HGTX3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_HYPE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_IGTA3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ITSA4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_ITUB4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_JBSS3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_JHSF3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_KLBN11.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_LAME4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_LCAM3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_LREN3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_MGLU3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_MRFG3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_MRVE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_MULT3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_NTCO3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_PCAR3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_PETR3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_PETR4.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_PRIO3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_QUAL3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_RADL3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_RAIL3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_RENT3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_SANB11.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_SBSP3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_SULA11.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_SUZB3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_TAEE11.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_TIMS3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_TOTS3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_UGPA3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_USIM5.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_VALE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_VIVT3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_VVAR3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_WEGE3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balancos/balanco_YDUQ3.xls" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D1mrnhyttRkvMg7Iic6wXtQ0j5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jeff/Desktop/GITHUB/cienciaDeDados"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jeff\Desktop\GITHUB\Projeto_ciencia_de_dados_acoes\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jeff\Desktop\GITHUB\Projeto_ciencia_de_dados_acoes\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="519e5db6-bbf6-4587-ae8a-2811473ce6a8" name="Changes" comment="" />
+      <created>1659875165189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659875165189</updated>
+      <workItem from="1659875168547" duration="5467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
